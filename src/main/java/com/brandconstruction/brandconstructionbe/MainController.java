@@ -9,6 +9,6 @@ public class MainController {
 
     @GetMapping("/main")
     public ResponseEntity<String> main() {
-        return ResponseEntity.ok("OK");
+        return ResponseEntity.ok("OKKK");
     }
 }
